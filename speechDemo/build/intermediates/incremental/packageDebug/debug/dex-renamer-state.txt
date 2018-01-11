@@ -1,0 +1,4 @@
+#Tue Jan 09 10:39:23 GMT+08:00 2018
+base.0=D\:\\git_resp\\MyApplication\\speechDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\git_resp\\MyApplication\\speechDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
