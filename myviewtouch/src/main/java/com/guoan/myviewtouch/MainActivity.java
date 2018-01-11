@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
         mButton = (TestButton) this.findViewById(R.id.my_btn);
 
         mLayout.setOnTouchListener(this);
+
         mButton.setOnTouchListener(this);
 
         mLayout.setOnClickListener(this);
